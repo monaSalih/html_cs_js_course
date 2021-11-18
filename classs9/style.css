@@ -1,0 +1,16 @@
+#div1{
+    border: 3px solid tomato;
+}
+
+#div2{
+    margin-top: 20px;
+    border: 5px dotted coral;
+}
+
+#div3{
+    margin-top: 50px;
+    margin-left: 55px;
+    margin-right: 55px;
+    border: 5px double yellowgreen;
+
+}
